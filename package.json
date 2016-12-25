@@ -33,6 +33,7 @@
   "dependencies": {
     "configstore": "^2.0.0",
     "google-translate-token": "latest",
+    "query-string": "^4.2.3",
     "got": "^6.3.0",
     "safe-eval": "^0.3.0"
   },
