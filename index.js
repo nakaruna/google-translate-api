@@ -1,4 +1,4 @@
-var querystring = require('querystring');
+var querystring = require('query-string');
 
 var got = require('got');
 var safeEval = require('safe-eval');
